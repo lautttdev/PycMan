@@ -31,7 +31,7 @@ Every mechanic was implemented from scratch.
 - WASD or arrow keys to move
 - Space or Enter key to start game
 
-## Instalation
+## Installation
 ```bash
 git clone https://github.com/lautttdev/PythonInvaders.git
 cd PythonInvaders
