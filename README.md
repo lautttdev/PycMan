@@ -1,6 +1,6 @@
 # PycMan
 
-A recreation/re-make of the classic arcade game Pac-Man built using Python and Pygame.
+A recreation of the classic arcade game Pac-Man built using Python and Pygame.
 
 This project is part of a collection of game recreation made by me in order to learn about game development, game programming and game design.
 Every mechanic was implemented from scratch.
